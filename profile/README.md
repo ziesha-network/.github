@@ -8,5 +8,7 @@ Explore the reference implementation of the protocol in repositories below:
  - 📙 SNARK gadgets used in MPN circuits ([Zeekit](https://github.com/zeeka-network/zeekit))
 
 Website: http://zeeka.io
+
 Discord: https://discord.gg/4gbf9gZh8H
+
 Twitter: https://twitter.com/ZeekaKv
