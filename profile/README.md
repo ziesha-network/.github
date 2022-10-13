@@ -7,7 +7,7 @@ Explore the reference implementation of the protocol in repositories below:
  - 🛠️ PoW Solver ([Uzi](https://github.com/zeeka-network/uzi-miner))
  - 📙 SNARK gadgets used in MPN circuits ([Zeekit](https://github.com/zeeka-network/zeekit))
 
-Website: http://zeeka-network.github.io
+Website: https://zeeka.network
 
 Discord: https://discord.gg/4gbf9gZh8H
 
