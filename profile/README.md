@@ -1,14 +1,14 @@
-### 🎭 Zeeka Network
+### 🎭 Ziesha Network
 
 Explore the reference implementation of the protocol in repositories below:
 
- - 🇿 Node Software ([Bazuka!](https://github.com/zeeka-network/bazuka))
- - 💸 Main-Payment-Network Circuits + Executor Software ([Zoro](https://github.com/zeeka-network/zoro))
- - 🛠️ PoW Solver ([Uzi](https://github.com/zeeka-network/uzi-miner))
- - 📙 SNARK gadgets used in MPN circuits ([Zeekit](https://github.com/zeeka-network/zeekit))
+ - 🇿 Node Software ([Bazuka!](https://github.com/ziesha-network/bazuka))
+ - 💸 Main-Payment-Network Circuits + Executor Software ([Zoro](https://github.com/ziesha-network/zoro))
+ - 🛠️ PoW Solver ([Uzi](https://github.com/ziesha-network/uzi-miner))
+ - 📙 SNARK gadgets used in MPN circuits ([Zeekit](https://github.com/ziesha-network/zeekit))
 
-Website: https://zeeka.network
+Website: https://ziesha.network
 
-Discord: https://discord.gg/4gbf9gZh8H
+Discord: https://discord.gg/zieshanetwork
 
-Twitter: https://twitter.com/ZeekaNetwork
+Twitter: https://twitter.com/ZieshaNetwork
